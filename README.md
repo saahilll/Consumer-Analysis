@@ -1,3 +1,4 @@
+# Customer-Analysis
 Customer Analysis in Tableau
 This repository contains a Tableau project called "Customer Analysis" that focuses on analyzing customer data and generating insightful charts. The project includes various visualizations that provide valuable information about revenue, sales analysis, regional performance, gender-based sales, and quantity-discount correlation for customers in the USA.
 
